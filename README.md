@@ -326,9 +326,8 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 **Krish** - 3rd Year CSE Student  
 *Built for: Google Agents Intensive Capstone Project 2024*
-
-📧 Contact: codementor.ai@gmail.com  
-🔗 GitHub: [@yourusername](https://github.com/yourusername)
+  
+🔗 GitHub: [@Krizzz18](https://github.com/Krizzz18)
 
 ---
 
@@ -359,8 +358,6 @@ While this is a hackathon submission, contributions for post-hackathon developme
 ---
 
 <div align="center">
-
-**Built with ❤️ for better CS education**
 
 *Making AI a learning tool, not a cheating tool*
 
